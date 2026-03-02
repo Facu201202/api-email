@@ -5,8 +5,7 @@
     "moduleResolution": "Node",
     "esModuleInterop": true,
     "strict": true,
-    "forceConsistentCasingInFileNames": true,
-    "outDir": "dist"
+    "forceConsistentCasingInFileNames": true
   },
   "include": ["api/**/*.ts"]
 }
